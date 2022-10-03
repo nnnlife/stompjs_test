@@ -1,0 +1,1 @@
+# stompjs_test
